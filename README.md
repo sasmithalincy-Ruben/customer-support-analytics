@@ -55,7 +55,7 @@ customer-support-analytics/
 - The overall ticket resolution rate was approximately **94.37%**.
 
 ## Dashboard
-The Power BI dashboard provides a visual overview of ticket volume, priority distribution, response time, resolution time, and customer satisfaction.![Customer Support Analytics Dashboard](powerbi/dashboard.png)
+The Power BI dashboard provides a visual overview of ticket volume, priority distribution, response time, resolution time, and customer satisfaction.![Customer Support Analytics Dashboard](./powerbi/power%20bi%20dashboard.png)
 
 ## Project Outcome
 This project demonstrates practical skills in data cleaning, SQL analysis, KPI development, dashboard creation, and translating data into business insights.
